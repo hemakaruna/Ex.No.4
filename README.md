@@ -24,6 +24,9 @@ Urban pipelines run under streets and buildings; small leaks can become big loss
 
 Primary Use Case: A utility deploys smart sensor nodes (acoustic, pressure, flow, and humidity) across a district. When anomalies occur, edge analytics flag probable leaks, cloud services refine models using fleet data, and operators get prioritized alerts with location and recommended action (shutoff, repair crew dispatch).
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15226375-fea6-4ce0-b84c-2c5190349ae5" />
+
+
 ---
 
 **Main Objectives:**
@@ -179,6 +182,9 @@ def detect_leak(window_pressure, window_flow, acoustic_feature):
 
 . Security vulnerabilities in IoT networks
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e7fdb28-a41a-40b4-95d1-7d66bd199940" />
+
+
 ---
 
 **📈 Expected Outcomes**
@@ -200,7 +206,8 @@ def detect_leak(window_pressure, window_flow, acoustic_feature):
 Smart sensors + AI/IoT enable early leak detection, accurate localization, and rapid response in urban pipelines.
 This improves safety, reduces water losses, and strengthens public trust in smart-city infrastructure.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f38df0d-8000-4206-8772-35bdfbf09af0" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/edfeb51a-5d87-4500-af8b-1ec52a993108" />
+
 
 
 ---
